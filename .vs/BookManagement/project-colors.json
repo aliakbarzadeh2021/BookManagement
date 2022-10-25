@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bdf36df9-ea72-4b15-a716-385a2034c0e1": {
+      "ProjectGuid": "bdf36df9-ea72-4b15-a716-385a2034c0e1",
+      "DisplayName": "TagManagement.Command",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4bb0ad08-7747-4198-97e6-0b086b19460d": {
+      "ProjectGuid": "4bb0ad08-7747-4198-97e6-0b086b19460d",
+      "DisplayName": "ServiceHost",
+      "ColorIndex": 1
+    },
+    "decbb645-bfd3-4d7b-8d01-0ac0f41cdc45": {
+      "ProjectGuid": "decbb645-bfd3-4d7b-8d01-0ac0f41cdc45",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

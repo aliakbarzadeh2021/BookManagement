@@ -1,0 +1,32 @@
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\TagManagement.Domain.dll
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\TagManagement.Domain.pdb
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\Infrastructure.dll
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.dll
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Bson.dll
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.Core.dll
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\Infrastructure.pdb
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.xml
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Bson.xml
+G:\Project HFJ\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.Core.xml
+G:\Project HFJ\BookManagement\TagManagement.Domain\obj\Debug\TagManagement.Domain.csprojResolveAssemblyReference.cache
+G:\Project HFJ\BookManagement\TagManagement.Domain\obj\Debug\TagManagement.Domain.dll
+G:\Project HFJ\BookManagement\TagManagement.Domain\obj\Debug\TagManagement.Domain.pdb
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\TagManagement.Domain.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\TagManagement.Domain.pdb
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\Infrastructure.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Bson.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.Core.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\Infrastructure.pdb
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.xml
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Bson.xml
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\MongoDB.Driver.Core.xml
+F:\Project\BookManagement\TagManagement.Domain\obj\Debug\TagManagement.Domain.csprojResolveAssemblyReference.cache
+F:\Project\BookManagement\TagManagement.Domain\obj\Debug\TagManagement.Domain.dll
+F:\Project\BookManagement\TagManagement.Domain\obj\Debug\TagManagement.Domain.pdb
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\Castle.Core.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\Castle.Windsor.dll
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\Castle.Core.xml
+F:\Project\BookManagement\TagManagement.Domain\bin\Debug\Castle.Windsor.xml

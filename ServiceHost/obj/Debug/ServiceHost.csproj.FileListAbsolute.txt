@@ -1,0 +1,70 @@
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\ServiceHost.exe.config
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\ServiceHost.exe
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\ServiceHost.pdb
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Hosting.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Newtonsoft.Json.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Owin.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\System.Net.Http.Formatting.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\System.Web.Http.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\System.Web.Http.Owin.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Topshelf.dll
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.xml
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Hosting.xml
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Newtonsoft.Json.xml
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\System.Net.Http.Formatting.xml
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\System.Web.Http.xml
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\System.Web.Http.Owin.xml
+G:\Project HFJ\BookManagement\ServiceHost\bin\Debug\Topshelf.xml
+G:\Project HFJ\BookManagement\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+G:\Project HFJ\BookManagement\ServiceHost\obj\Debug\ServiceHost.exe
+G:\Project HFJ\BookManagement\ServiceHost\obj\Debug\ServiceHost.pdb
+F:\Project\BookManagement\ServiceHost\bin\Debug\ServiceHost.exe.config
+F:\Project\BookManagement\ServiceHost\obj\Debug\ServiceHost.exe
+F:\Project\BookManagement\ServiceHost\obj\Debug\ServiceHost.pdb
+F:\Project\BookManagement\ServiceHost\bin\Debug\ServiceHost.exe
+F:\Project\BookManagement\ServiceHost\bin\Debug\ServiceHost.pdb
+F:\Project\BookManagement\ServiceHost\bin\Debug\Infrastructure.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Hosting.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Newtonsoft.Json.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Owin.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\System.Net.Http.Formatting.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\System.Web.Http.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\System.Web.Http.Owin.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Command.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Topshelf.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\MongoDB.Driver.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\MongoDB.Bson.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Domain.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\MongoDB.Driver.Core.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Infrastructure.pdb
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Command.pdb
+F:\Project\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\Microsoft.Owin.Hosting.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\Newtonsoft.Json.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\System.Net.Http.Formatting.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\System.Web.Http.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\System.Web.Http.Owin.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\Topshelf.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\MongoDB.Driver.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\MongoDB.Bson.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Domain.pdb
+F:\Project\BookManagement\ServiceHost\bin\Debug\MongoDB.Driver.Core.xml
+F:\Project\BookManagement\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Query.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Query.pdb
+F:\Project\BookManagement\ServiceHost\bin\Debug\Castle.Core.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Castle.Windsor.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Repository.dll
+F:\Project\BookManagement\ServiceHost\bin\Debug\Castle.Core.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\Castle.Windsor.xml
+F:\Project\BookManagement\ServiceHost\bin\Debug\TagManagement.Repository.pdb
+E:\USB\BookManagement\ServiceHost\bin\Debug\ServiceHost.exe.config
+E:\USB\BookManagement\ServiceHost\obj\Debug\ServiceHost.exe
+E:\USB\BookManagement\ServiceHost\obj\Debug\ServiceHost.pdb
